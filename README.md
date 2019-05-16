@@ -1,1 +1,1 @@
-# udacity-optimization-project.github.io
+# udacity-optimization-project
